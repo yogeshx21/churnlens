@@ -10,7 +10,7 @@ ChurnLens is a customer churn prediction tool in which every prediction is **exp
 |---|---|
 | Source code | https://github.com/yogeshx21/churnlens |
 | Pitch deck (PDF) | [docs/Visionaries_ChurnLens_Pitch_Deck.pdf](docs/Visionaries_ChurnLens_Pitch_Deck.pdf) |
-| Live demo (Streamlit app) | Coming soon (run locally with the steps below) |
+| Live demo (Streamlit app) | https://churnlens-visionaries.streamlit.app/ |
 
 ## Team Visionaries (Dream · Innovate · Build)
 
